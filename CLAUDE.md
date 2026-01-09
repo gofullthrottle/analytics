@@ -2,6 +2,11 @@
 
 Project-specific configuration for Claude Code.
 
+
+## ClickUp Integration
+
+@.clickup_state.json
+
 ## Overview
 
 The Analytics platform provides metrics, reporting, and data visualization capabilities for the Initiative Engine ecosystem.

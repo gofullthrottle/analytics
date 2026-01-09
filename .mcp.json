@@ -1,0 +1,82 @@
+{
+  "mcpServers": {
+    "sequential-thinking": {
+      "disabled": false
+    },
+    "chrome-devtools": {
+      "disabled": true
+    },
+    "puppeteer": {
+      "disabled": true
+    },
+    "github": {
+      "disabled": true
+    },
+    "elastic": {
+      "disabled": true
+    },
+    "context7": {
+      "disabled": true
+    },
+    "cloudflare": {
+      "disabled": true
+    },
+    "sysoperator": {
+      "disabled": true
+    },
+    "claude-context": {
+      "disabled": true
+    },
+    "magic": {
+      "disabled": true
+    },
+    "clickup-local-test": {
+      "disabled": true
+    },
+    "github-official": {
+      "disabled": true
+    },
+    "homelab-infrastructure": {
+      "disabled": true
+    },
+    "sqlite-local": {
+      "disabled": true
+    },
+    "n8n-homelab": {
+      "disabled": true
+    },
+    "neo4j-homelab": {
+      "disabled": true
+    },
+    "directus-homelab": {
+      "disabled": true
+    },
+    "milvus-homelab": {
+      "disabled": true
+    },
+    "claude-code-official": {
+      "disabled": true
+    },
+    "codex-data": {
+      "disabled": true
+    },
+    "sentry": {
+      "disabled": true
+    },
+    "microsoft-clarity": {
+      "disabled": true
+    },
+    "google-analytics": {
+      "disabled": true
+    },
+    "postgres-homelab": {
+      "disabled": true
+    },
+    "chrome-control": {
+      "disabled": true
+    },
+    "chrome-cdp": {
+      "disabled": true
+    }
+  }
+}

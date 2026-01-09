@@ -1,0 +1,9 @@
+{
+  "tier": "standard",
+  "initialized": "2026-01-08T23:28:00Z",
+  "branches": {
+    "default": "master",
+    "dev": true,
+    "staging": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "space_id": "90144427251",
+  "space_name": "analytics",
+  "team_id": "42051537",
+  "created": "2026-01-08T23:30:36.183906",
+  "git": {
+    "has_remote": true,
+    "remote_url": "git@github.com:gofullthrottle/analytics.git",
+    "provider": "github",
+    "owner": "gofullthrottle",
+    "repo": "analytics"
+  },
+  "settings": {},
+  "gantt_project_id": null
+}
